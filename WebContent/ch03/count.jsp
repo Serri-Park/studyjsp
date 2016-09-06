@@ -8,7 +8,7 @@
 </head>
 <body>
 	<%! int globalCount = 0; %>
-	<% int localCount = 0; %>
+	<% int localCount = 1; %>
 	<%
 		globalCount++;
 		localCount++;
